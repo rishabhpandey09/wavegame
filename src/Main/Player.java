@@ -59,6 +59,9 @@ public class Player extends GameObject{
 			
 		}
 		
+		
+		
+		
 	}
 	
 	public void render(Graphics g) {
